@@ -3,6 +3,7 @@
 Industrial Express Engineering  
 & 
 how to not waste my time 
+<img width="250" height="248" alt="image" src="https://github.com/user-attachments/assets/50321f13-3243-4d88-ac47-151a8a85a38f" />
 
 
 Vibe coding is obsolete, real ones aura code.
