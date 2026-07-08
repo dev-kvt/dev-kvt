@@ -1,2 +1,2 @@
 ### 👋 <br/>
-Learning about neural networks 
+yo ! 
