@@ -15,6 +15,6 @@ Backend and agentic AI engineer. Final-year B.Tech CS student, building distribu
 
 ## Links
 
-- Portfolio: [dev-kvt.github.io](https://dev-kvt.github.io)
+- Portfolio: [web.dvnsh-work.workers.dev](https://web.dvnsh-work.workers.dev)
 - LinkedIn: [linkedin.com/in/dev-kvt](https://linkedin.com/in/dev-kvt)
 - Email: dvnsh.work@gmail.com
