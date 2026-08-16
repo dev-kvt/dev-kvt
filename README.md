@@ -1,1 +1,2 @@
 - Email: dvnsh.work@gmail.com
+- Mostly working with Java, Go, Python, Spring Boot, FastAPI, Kafka, Redis, and databases
